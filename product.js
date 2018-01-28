@@ -1,3 +1,4 @@
+"use strict";
 class Product{
   constructor(brand, size, price) {
     this.brand = brand;
